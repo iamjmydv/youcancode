@@ -1,0 +1,9 @@
+{
+    "explorer.compactFolders": false,
+    "cmake.sourceDirectory": "C:/Users/jamxpress/Documents/GitHub/youcancode/youcancode/linux",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": false,
+        "editor.defaultFormatter": "Dart-Code.dart-code"
+    }
+}
